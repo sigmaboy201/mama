@@ -1,0 +1,51 @@
+.border {
+    background-color: #70FF7E;
+    width: 1440px;
+    height: 1024px;
+
+}
+
+h1 {
+    font-size: 48px;
+    background-color: #001EBD;
+    border-radius: 20px;
+    text-align: center;
+    color: #F5F5F5;
+    width: 400px;
+    margin: 25px auto;
+    padding: 25px;
+    box-sizing: border-box;
+    
+}
+.container{
+    background-color: #040404;
+    width: 451px;
+    height: 777px;
+    border-radius: 20px;
+    margin: auto;
+  
+}
+.svetofor{
+    background-color: #DF3636;
+    border: 5px solid #28E145;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+.baba{
+    background-color: #FDE403;
+    border: 5px solid #28E145;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+.baby{
+    background-color: #28E145;
+    border: 5px solid #28E145;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
